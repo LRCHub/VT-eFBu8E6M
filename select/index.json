@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "祈り",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-16T15:18:58.882932Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "祈り",
+      "artist": "Luna Haruna",
+      "has_synced": true,
+      "path": "select/01_祈り_Luna_Haruna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "叫び 祈り",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/02_叫び_祈り_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "祈り ~涙の軌道",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/03_祈り_~涙の軌道_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "祈り ～ 涙の軌道",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/04_祈り_~_涙の軌道_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "祈り-涙の軌道",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/05_祈り-涙の軌道_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "祈り",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/06_祈り_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "祈り",
+      "artist": "Hitsujibungaku",
+      "has_synced": false,
+      "path": "select/07_祈り_Hitsujibungaku.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Prayer (祈り) (Korean Ver.)",
+      "artist": "BoA",
+      "has_synced": false,
+      "path": "select/08_My_Prayer_(祈り)_(Korean_Ver.)_BoA.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "祈り",
+      "artist": "Younha",
+      "has_synced": true,
+      "path": "select/09_祈り_Younha.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "祈り (Inst.)",
+      "artist": "Younha",
+      "has_synced": true,
+      "path": "select/10_祈り_(Inst.)_Younha.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "祈り (Korean ver.)",
+      "artist": "Younha",
+      "has_synced": true,
+      "path": "select/11_祈り_(Korean_ver.)_Younha.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "祈り†",
+      "artist": "KOKIA",
+      "has_synced": true,
+      "path": "select/12_祈り†_KOKIA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "祈り",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_祈り_amazarashi.txt"
+    }
+  ]
+}
